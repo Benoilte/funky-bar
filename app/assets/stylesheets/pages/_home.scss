@@ -9,8 +9,17 @@
   background-position: center;
 }
 
-#text-info {
+#text-info-construction {
   margin-top: 10px;
+  margin-bottom: 0px;
+  color: $red-brand;
+  font-family: $text-brand;
+  text-align: center;
+  font-size: 20px;
+}
+
+#text-info-cocktail {
+  margin: 0px;
   color: $red-brand;
   font-family: $text-brand;
   text-align: center;
